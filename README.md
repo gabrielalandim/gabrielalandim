@@ -6,9 +6,6 @@ Estou em constante evolução, focada em aprimorar minhas habilidades em desenvo
 
 <p align="left">
 
----
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=gabrielalandim&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/gabrielalandim/github-readme-stats#gh-light-mode-only)
-
 ### 🤖 Linguagens e Tecnologias
 
 <img 
