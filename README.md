@@ -29,7 +29,7 @@ src="https://github-readme-stats.vercel.app/api?username=gabrielalandim&show_ico
 align="center"
 alt="Tecnologias de Gabriela"
 height="180px"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielalandim&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielalandim&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count="
 />
 </p>
 <br>
